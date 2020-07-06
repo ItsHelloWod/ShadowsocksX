@@ -2036,6 +2036,16 @@ var rules = [
   "||mpettis.com",
   "mpfinance.com",
   "mpinews.com",
+  "canvas.sussex.ac.uk",
+  "twitter.com",
+  ".google.com",
+  "||google.com",
+  "scikit-learn.org",
+  "opencv-python-tutroals.readthedocs.io”,
+  ".opencv-python-tutroals.readthedocs.io”
+  "||opencv-python-tutroals.readthedocs.io”,
+  "docs.opencv.org",
+  "stackoverflow.com",
   "mrtweet.com",
   "||mrtweet.com",
   "news.msn.com.tw",
@@ -3982,7 +3992,11 @@ var rules = [
   "@@||zhongsou.com",
   "@@|https:\/\/autoproxy.org",
   "@@|http:\/\/ime.baidu.jp"
-];
+  “@@zhihu”
+  ”@@apple.com“
+  “@@iCloud.com”
+  "@@www.bilibili.com"
+  ];
 
 /*
  * This file is part of Adblock Plus <http://adblockplus.org/>,
